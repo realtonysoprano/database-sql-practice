@@ -1,2 +1,4 @@
-# database-sql-practice
-Course Project
+# Базы данных
+Курсовая работа 
+
+
